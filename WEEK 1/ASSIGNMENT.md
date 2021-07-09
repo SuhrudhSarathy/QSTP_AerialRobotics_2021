@@ -15,7 +15,7 @@ function plotAxis([x, y], [X, Y]):
     plt.plot(FrameB)
 ```
 Refer to the image below for the final solution Image
-<img src="sample.png" alt="Sample Solution" style="height: 200px; width:200px;"/>
+<img src="sample.jpg" alt="Sample Solution" style="height: 50px; width:50px;"/>
 
 ### Task II (Bonus)
 Refer to this resource: https://www.cs.columbia.edu/~allen/F17/NOTES/frames2.pdf. Transformation of axes can be done using a single matrix multiplication. Do the same task as given in `Task I` but use the matrix given in the above resource and complete the Task.
