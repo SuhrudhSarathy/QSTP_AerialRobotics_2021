@@ -10,4 +10,4 @@ The main content for this week is `Python Programming`. The resources for this w
     - https://stackoverflow.com/questions/53894808/what-is-the-difference-between-local-runtime-and-hosted-runtime-in-google-colab
 
 ## Assignment
-The Assignment will be uploaded on 10th July (Saturday). Refer to the [ASSIGNMENT](ASSIGNMENT.md)
+The Assignment for Week I is uploaded. Refer to the [ASSIGNMENT](ASSIGNMENT.md)
